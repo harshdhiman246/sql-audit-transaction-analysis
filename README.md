@@ -5,7 +5,7 @@ This portfolio project demonstrates how MySQL can support audit-focused transact
 
 ## Files
 - `SQL_Audit_Transaction_Analysis.sql` — commented, read-only MySQL queries.
-- `SQL_Audit_Transaction_Analysis_Case_Study.docx` — professional case-study report.
+- `SQL_Audit_Transaction_Analysis_Case_Study.pdf` — professional case-study report.
 
 ## Database
 The script is designed for the existing `audit_practice` database with these known tables:
